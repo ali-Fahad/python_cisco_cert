@@ -1,0 +1,17 @@
+Q1 Answer:
+Object Oriented Programming (OOP) is a paradigm in which real-world objects are each viewed as separate entities having their own state which is modified only by built in procedures called methods.
+
+Q2 Answer:
+- Modular approach or segmented code aids in troubleshooting
+- Reuse of code through inheritance
+- Flexibility through polymorphism
+- Effective problem solving.
+
+Q3 Answer:
+Functions are defined outside of classes, while Methods are defined inside of and part of classes
+
+Q4 Answer:
+Class - It is a template or blueprint about the capability of what an object can do.
+Object - An object (instance) is an instantiation of a class. When class is defined, only the description for the object is defined. Therefore, no memory or storage is allocated.
+Attribute - Attributes are data stored inside a class or instance and represent the state or quality of the class or instance. In short, attributes store information about the instance.
+Behavior - Behavior is the only way objects can do anything to themselves or have anything done to them.
